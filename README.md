@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DawoodAhmed321
-- 👀 I’m interested in React Native
-- 🌱 I’m currently learning Node js
-- 💞️ I’m looking to collaborate on Nothing
+- 👀 I’m interested in MERN Stack Development
+- 🤖 I show great inteset in JS and its new Tech 
+- 💞️ I’m looking to collaborate on Excited MERN Projects
 - 📫 How to reach me +923044763376 WhatsApp only
 
 <!---
